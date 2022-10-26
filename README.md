@@ -1,1 +1,1 @@
-# synapse_ml_tasks
+# synapse_lp_tasks
